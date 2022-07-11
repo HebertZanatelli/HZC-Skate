@@ -23,6 +23,9 @@ Objetivo: Colocar em prática conteúdos aprendidos sobre HTML5 e CSS3:
 * CSS
 
 ## Screenshots
+![image](https://user-images.githubusercontent.com/105179112/178277952-7d30e8d7-b843-45f3-b580-1043e7af86c2.png)
+![image](https://user-images.githubusercontent.com/105179112/178278051-076e7910-022e-4e97-a6bf-5149cf0e4d7d.png)
+![image](https://user-images.githubusercontent.com/105179112/178278095-df7c8d67-d677-4bdc-a551-cc3bb16d8c62.png)
 
 
 
